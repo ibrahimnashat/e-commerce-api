@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PASSWORD": "123456",
+    "SERVER": "localhost",
+    "USERNAME": "root0",
+    "NAME": "e-commerce",
+    "JWT_PRIVATE_KEY": "secret"
+  }
+}
